@@ -1,2 +1,3 @@
 Wpu RESOLUSI 
   - konsisten ngoding
+  - belajar html & css
